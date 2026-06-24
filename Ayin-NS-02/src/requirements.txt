@@ -1,0 +1,4 @@
+openai==2.9.0
+rank_bm25==0.2.2
+jieba==0.42.1
+numpy==2.3.5

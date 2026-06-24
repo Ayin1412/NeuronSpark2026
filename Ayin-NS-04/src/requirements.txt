@@ -1,0 +1,8 @@
+rdkit>=2026.03.2
+lightgbm>=4.6.0
+xgboost>=3.2.0
+catboost>=1.2.10
+scikit-learn>=1.6.1
+pandas
+torch>=2.7.1
+tqdm

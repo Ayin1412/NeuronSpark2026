@@ -1,0 +1,10 @@
+Evaluating on training set...
+Train metrics:
+  Total: 1440
+  Terminal: 0.894
+  Events: 0.852
+  Grid: 0.835
+  Timeline: 0.803
+  Order: 0.831
+  Estimated score: 1276.2
+

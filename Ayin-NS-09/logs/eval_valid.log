@@ -1,0 +1,10 @@
+Evaluating on validation set...
+Valid metrics:
+  Total: 320
+  Terminal: 0.875
+  Events: 0.822
+  Grid: 0.816
+  Timeline: 0.759
+  Order: 0.784
+  Estimated score: 1233.4
+

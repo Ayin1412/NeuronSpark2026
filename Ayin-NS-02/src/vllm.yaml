@@ -1,0 +1,11 @@
+host: 0.0.0.0
+port: 8000
+
+models:
+  - model: "Qwen/Qwen3.5-4B"
+    served_model_name: "Qwen/Qwen3.5-4B"
+    gpu_memory_utilization: 0.5
+  - model: "Qwen/Qwen3-Embedding-0.6B"
+    served_model_name: "Qwen/Qwen3-Embedding-0.6B"
+    task: "embedding"
+    gpu_memory_utilization: 0.3

@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "model_assets": [
+    {
+      "filename": "model/policy.pth",
+      "size_bytes": 1829777,
+      "sha256": "3ac0c9266ec21d851de9838f6f87848c639c14344b3a41edd818d1f71f14c9bd",
+      "training_source": "Offline RL (Advantage-Weighted Regression) on 1200 replayed weak train rollouts",
+      "dependencies": [
+        "torch==2.11.0+cu128",
+        "numpy==2.4.6"
+      ],
+      "inference_entry": "example_submission/agent.py"
+    }
+  ]
+}
